@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LAPTOP-RG5QA0PH.SSIS_Project.nom1"
+  DTS:DTSID="{0C512DC0-E11B-4BC2-8382-A1F9AED5B3A3}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=LAPTOP-RG5QA0PH;User ID=nom;Initial Catalog=SSIS_Project;Provider=SQLNCLI11.1;Application Name=SSIS-Integration Services Project1-{0C512DC0-E11B-4BC2-8382-A1F9AED5B3A3}LAPTOP-RG5QA0PH.SSIS_Project.nom1;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAzn3blIVlZ0aURqNsjP/MKAAAAAACAAAAAAAQZgAAAAEAACAAAABVCIOAUqqp0Cmpql+o2oZ3LrCwBQKtPSCBsIkTEF75vAAAAAAOgAAAAAIAACAAAABnHHDzGlfYySooDNQUZVJgPNQopzyT396ncaNDGJaPooAAAADPZsb9cPRphUpJm7gZAcLqcBoBqLOnXVgZunsZZr6qPdSiK/7KRaDJen7HTybJ4FJiwUastqz2NErvBLFC9ZM3oQIbefxFYKyw9plWOGRZ1XlDODLpkcWnmpDiYixEVsALj9AGqwa6HEzQvDUMcsXHM8xuDXLdI9QFnqL+ScGTD0AAAACa6SPB2YjOWFDLl01adjXraYB9upBfqtGezRYub1qUSiKHChf6WSpVbLMz9seKAgaFukETDcnbOdQdXTCwWz6w</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
